@@ -19,4 +19,8 @@ by [Raghav](https://github.com/guptaraghav29) and [Nicole](https://github.com/lp
     - After running ```plotly.offline.init_notebook_mode()``` in a cell, you can export the notebook with full interactivity via the file menu: 
     >File --> Export Notebook as... --> Export Notebook to HTML
 - Full Instructions [here](https://github.com/plotly/plotly.py)
+# Viewing Notebooks
+Due to limited rendeing use [nbviewer](https://nbviewer.jupyter.org/) either directly or use the clickable link when accessing a particulartly notebook here on this repo.
+
+# Thanks for checking out thiis repo!
 
