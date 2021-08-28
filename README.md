@@ -22,5 +22,5 @@ by [Raghav](https://github.com/guptaraghav29) and [Nicole](https://github.com/lp
 # Viewing Notebooks
 Due to limited rendeing use [nbviewer](https://nbviewer.jupyter.org/) either directly or use the clickable link when accessing a particulartly notebook here on this repo.
 
-# Thanks for checking out thiis repo!
+# Thanks for checking out this repo!
 
