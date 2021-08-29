@@ -21,6 +21,7 @@ by [Raghav](https://github.com/guptaraghav29) and [Nicole](https://github.com/lp
 - Full Instructions [here](https://github.com/plotly/plotly.py)
 # Viewing Notebooks
 Due to limited rendeing use [nbviewer](https://nbviewer.jupyter.org/) either directly or use the clickable link when accessing a particulartly notebook here on this repo.
+Sample data with student names has been removed for privacy.
 
 # Thanks for checking out this repo!
 
