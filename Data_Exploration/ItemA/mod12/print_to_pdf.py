@@ -49,6 +49,7 @@ print('Total:',(totalDir + totalFiles))
 #
 for i in range(0, totalFiles):
     file_name = APP_FOLDER + "/fig" + str(i + 1) + ".jpeg"
-    pdf.image(file_name)
-    pdf.cell(0, 10, 'Printing line number ' + str(i), 0, 1)
-pdf.output('tuto2.pdf', 'F')
+    pdf.image(file_name, 10, 8)
+    pdf.add_page()
+   # pdf.cell(0, 10, 'Printing line number ' + str(i), 0, 1)
+pdf.output('report.pdf', 'F')
