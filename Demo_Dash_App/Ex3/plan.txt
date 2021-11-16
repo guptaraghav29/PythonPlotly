@@ -1,0 +1,9 @@
+--just link all questions with course objectives/ module objectives
+--i can make fake data to see how it would work with the webapp
+-- web app in dash 
+    -create a cleaner script to make each aggreate pull into useable data
+    -pull the cleaned data into the app
+    -drop down menu navigation
+    -can include basic auth to separate student vs teacher view or make two diffrent versions of app
+    -based on fake data see if its easier in the app or or to put it in xapi
+    
